@@ -10,7 +10,7 @@ Las tres P de mi vida
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,go,bash,html,css,vim,neovim,sqlite,markdown" />
+  <img src="https://skillicons.dev/icons?i=c,rust,go,python,bash,html,css,vim,neovim,sqlite,markdown" />
 
 </p>
 
