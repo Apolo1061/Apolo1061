@@ -10,7 +10,7 @@ Las tres P de mi vida
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,rust,go,python,bash,html,css,vim,neovim,sqlite,markdown" />
+  <img src="https://skillicons.dev/icons?i=c,c++,go,python,bash,html,css,vim,neovim,sqlite,markdown" />
 
 </p>
 
@@ -33,17 +33,17 @@ Las tres P de mi vida
 
 - Apasionado de la construccion de redes informaticas
    
-- Me encanta construir cosas a bajo nivel (C, ASM)
+- Me encanta construir cosas a bajo nivel (C, ASM, C++)
   
-- Tengo amplico conocimiento de bibliotecas de Python para GUI y scraping
+- Tengo amplico conocimiento de bibliotecas de Python scraping
    
-- Tengo la mania de intentar optimizar todo lo q se pueda optimizar XD
+- Tengo la costumbre de optimizar todo code que toco
   
-- Soy un Ex desarrolador web
+- Soy un Ex desarrolador web (html, css)
   
-- Me encantan las cosas a bajo nivel y el saber de el como funcionan todas las cosas
+- Me encantan las cosas a bajo nivel y el saber de como funcionan todas las cosas
 
-- Me gusta el espacio y los cohetes
+- Me gusta el espacio exterior y los cohetes
 
 
 #
