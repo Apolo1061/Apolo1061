@@ -31,19 +31,19 @@ Las tres P de mi vida
 #
 ## Cosas sobre de mi
 
-- Apasionado de la construccion de redes informaticas
+- Me gusta la construccion de redes informaticas
    
-- Me encanta construir cosas a bajo nivel (C, ASM, C++)
+- Me encanta construir cosas a bajo nivel principalmente en C o asm
   
-- Tengo amplico conocimiento de bibliotecas de Python scraping
+- Tengo amplio conocimiento en metodos de scraping en Python
    
 - Tengo la costumbre de optimizar todo code que toco
   
 - Soy un Ex desarrolador web (html, css)
   
-- Me encantan las cosas a bajo nivel y el saber de como funcionan todas las cosas
+- Me gusta ek saber como funcionan las cosas desde el mas bajo nivel al alto
 
-- Me gusta el espacio exterior y los cohetes
+- Me gusta el espacio exterior y los cohetes espaciales ( se agc )
 
 <hr>
 <div align="center">
